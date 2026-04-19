@@ -41,3 +41,7 @@ npm run test
 * Persistencia en localStorage
 * Lazy loading con React.lazy
 * Tests unitarios
+
+## Vercel
+
+* https://todo-react-i8o91p1al-michel-acostas-projects.vercel.app
